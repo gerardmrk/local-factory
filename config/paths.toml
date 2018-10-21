@@ -1,0 +1,6 @@
+[user]
+downloads = "<home_dir>/Downloads"
+movies = "<home_dir>/Movies"
+desktop = "<home_dir>/Desktop"
+
+[system]

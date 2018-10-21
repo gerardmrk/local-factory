@@ -1,0 +1,9 @@
+{
+  "go.inferGopath": false,
+  "go.lintTool": "revive",
+  "go.lintFlags": [
+    "-config=${workspaceRoot}/config/static_analysis/revive.toml",
+    "-formatter=friendly",
+    "."
+  ]
+}
